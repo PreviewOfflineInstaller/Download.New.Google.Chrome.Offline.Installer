@@ -13,13 +13,13 @@ Google Chrome Standalone Offline Installer Preview More Download
  <br /> <p>
 
 <!--
-<a href="https://www.google.com/intl/en/chrome/"><img src="https://github.com/PreviewOfflineInstaller/Download.New.Google.Chrome.Offline.Installer/blob/master/icon/Google%7CChrome(September%7C2014).svg" width="150" /></a>
+<a href="https://www.google.com/intl/en/chrome/ "><img src="https://github.com/PreviewOfflineInstaller/Download.New.Google.Chrome.Offline.Installer/blob/master/icon/Google%7CChrome(September%7C2014).svg" width="150" /></a>
 -->   
    
    
  
 
-<a href="https://www.google.com/intl/en/chrome/"><img src="https://www.google.com/chrome/static/images/chrome-logo.svg" width="150" /></a> 
+<a href="https://previewofflineinstaller.github.io/"><img src="https://www.google.com/chrome/static/images/chrome-logo.svg" width="150" /></a> 
    
 
 ### [Download Google Chrome Full Standalone Offline Installer](https://www.askvg.com/official-link-to-download-google-chrome-standalone-offline-installer/)
